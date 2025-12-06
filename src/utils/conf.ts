@@ -1,7 +1,8 @@
 const host = 'localhost'
 const port = '3000'
 
-export const URLHOST = `http://${host}:${port}`
+// export const URLHOST = `http://${host}:${port}`
+export const URLHOST = `https://trackcolis-back.onrender.com`
 
 export const DB_HOST = 'localhost'
 export const DB_USER = 'root'
