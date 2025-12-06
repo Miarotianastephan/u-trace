@@ -1,0 +1,132 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+    font-family: roboto;
+    src: url('./theme/Font/Roboto-VariableFont_wdth,wght.ttf');
+}
+
+@font-face {
+    font-family: londrina;
+    src: url('./theme/Font/LondrinaShadow-Regular.ttf');
+}
+
+@font-face {
+    font-family: instrumentalsans;
+    src: url('./theme/Font/InstrumentSans-VariableFont.ttf');
+}
+
+:root {
+    font-family: instrumentalsans;
+}
+body {
+    font-family: inherit;
+}
+
+/* Color variable */
+:root {
+  /* Custom brand colors */
+  --brand-primary: #C1ADD0;
+  --brand-primary-dark: #362743;
+  --brand-accept: #E1FFD0;
+  --brand-deny: #FFD0D0;
+
+  /* Neutral scale */
+  --brand-beige-100: #FFFADE;
+  --brand-text-head: #363636;
+  --brand-text-option: #676767;
+  --brand-cheked-option: #0A4E61;
+  --brand-text-dark: #08034E;
+  --brand-btn-dark: #434343;
+}
+
+/* Background colors */
+.bg-brand-primary {
+  background-color: var(--brand-primary);
+}
+
+.bg-brand-primary-25 {
+  background-color: color-mix(in srgb, var(--brand-primary) 25%, transparent);
+}
+
+.bg-brand-primary-dark {
+  background-color: var(--brand-primary-dark);
+}
+
+.bg-brand-accept {
+  background-color: var(--brand-accept);
+}
+
+.bg-brand-deny {
+  background-color: var(--brand-deny);
+}
+
+.bg-brand-beige-100 {
+  background-color: var(--brand-beige-100);
+}
+
+/* Text colors */
+.text-brand-head {
+  color: var(--brand-text-head);
+}
+
+.text-brand-option {
+  color: var(--brand-text-option);
+}
+
+.text-beige {
+  color: var(--brand-beige-100);
+}
+
+.text-violet-dark {
+  color: var(--brand-text-dark);
+}
+
+.text-brand-checked-option {
+  color: var(--brand-cheked-option);
+}
+
+/* Borders */
+.border-brand-primary {
+  border-color: var(--brand-primary);
+}
+
+.border-brand-primary-dark {
+  border-color: var(--brand-primary-dark);
+}
+
+.border-brand-accept {
+  border-color: var(--brand-accept);
+}
+
+.border-brand-deny {
+  border-color: var(--brand-deny);
+}
+
+.border-brand-btn-dark {
+  border-color: var(--brand-btn-dark);
+}
+
+/* Simple pills / badges */
+.badge-brand-primary {
+  background-color: var(--brand-primary);
+  color: var(--brand-text-head);
+  border-radius: 9999px;
+}
+
+.badge-brand-accept {
+  background-color: var(--brand-accept);
+  color: var(--brand-cheked-option);
+  border-radius: 9999px;
+}
+
+.badge-brand-deny {
+  background-color: var(--brand-deny);
+  color: var(--brand-text-head);
+  border-radius: 9999px;
+}
+
+/* Button component */
+.btn-h {
+    height: 83px;
+}

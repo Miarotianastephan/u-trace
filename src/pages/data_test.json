@@ -1,0 +1,1226 @@
+{
+    "payload": {
+      "videos": [
+        {
+          "id": 2,
+          "checking": "waiting for checking",
+          "processing": "null",
+          "type": "2",
+          "comment": null,
+          "user_id": 1,
+          "hls_url": null,
+          "category_id": 2,
+          "sub_category_id": 26,
+          "ref": "sup513eba45",
+          "temp_url": "D:/videos/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.mp4",
+          "s3_hls_path": null,
+          "cdn_url": null,
+          "transfer_status": 0,
+          "upload_status": 0,
+          "cover": "D:/images/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.jpeg",
+          "s3_cover_path": null,
+          "cover_upload_status": 0,
+          "local_mp4_path": "D:/videos/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.mp4",
+          "local_cover_path": "D:/images/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.jpeg",
+          "local_hls_path": null,
+          "duration": 6440,
+          "sequence": null,
+          "hash": "658086f42bb5c08c8241b84f007caafc",
+          "sys_code": "Vod001",
+          "sendToServer": false,
+          "server_url": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "isDeleted": false,
+          "plateform_id": 1,
+          "createdAt": "2025-11-15T20:27:03.000Z",
+          "updatedAt": "2025-11-15T20:27:03.000Z",
+          "category": {
+            "id": 2,
+            "name": "Ethical Love",
+            "createdAt": "2025-11-14T08:15:35.000Z",
+            "updatedAt": "2025-11-14T08:15:35.000Z"
+          },
+          "subCategory": {
+            "id": 26,
+            "name": "Fall in love with the sister-in-law",
+            "category_id": 2,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T08:15:35.000Z",
+            "updatedAt": "2025-11-14T08:15:35.000Z"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "titles": [],
+          "public_urls": {
+            "temp_url": "http://192.168.1.43:3000/files/videos/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.mp4",
+            "cover_url": "http://192.168.1.43:3000/files/images/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.jpeg",
+            "hls_url": "http://192.168.1.43:3000/files/videos/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.mp4",
+            "local_mp4_url": "http://192.168.1.43:3000/files/videos/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.mp4",
+            "local_cover_url": "http://192.168.1.43:3000/files/images/658086f42bb5c08c8241b84f007caafc/658086f42bb5c08c8241b84f007caafc.jpeg",
+            "local_hls_url": null
+          },
+          "s3_urls": {
+            "coverUrl": null,
+            "hlsUrl": null
+          }
+        },
+        {
+          "id": 3,
+          "checking": "waiting for checking",
+          "processing": "null",
+          "type": "2",
+          "comment": null,
+          "user_id": 1,
+          "hls_url": null,
+          "category_id": 3,
+          "sub_category_id": 50,
+          "ref": "sup7da3bdd9",
+          "temp_url": "D:/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.mp4",
+          "s3_hls_path": null,
+          "cdn_url": null,
+          "transfer_status": 0,
+          "upload_status": 0,
+          "cover": "D:/images/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.png",
+          "s3_cover_path": null,
+          "cover_upload_status": 0,
+          "local_mp4_path": "D:/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.mp4",
+          "local_cover_path": "D:/images/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.png",
+          "local_hls_path": null,
+          "duration": 140051,
+          "sequence": null,
+          "hash": "f8d81bdf424d858406086dc46ea596bd",
+          "sys_code": "Vod001",
+          "sendToServer": false,
+          "server_url": null,
+          "creator": "johnny",
+          "creator_id": 15,
+          "isDeleted": false,
+          "plateform_id": 1,
+          "createdAt": "2025-11-15T20:27:32.000Z",
+          "updatedAt": "2025-11-16T19:05:12.000Z",
+          "category": {
+            "id": 3,
+            "name": "Domestic Selection",
+            "createdAt": "2025-11-14T08:15:35.000Z",
+            "updatedAt": "2025-11-14T08:15:35.000Z"
+          },
+          "subCategory": {
+            "id": 50,
+            "name": "Black News Society",
+            "category_id": 3,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T08:15:35.000Z",
+            "updatedAt": "2025-11-14T08:15:35.000Z"
+          },
+          "creatorObj": {
+            "id": 15,
+            "name": "mia",
+            "gender": "female",
+            "avatar": "uploads/creators/avatars/1763113331932_1763113331929_github.jpeg",
+            "description": null,
+            "metadata": null,
+            "isDeleted": true,
+            "createdAt": "2025-11-14T09:34:45.000Z",
+            "updatedAt": "2025-11-14T09:42:13.000Z"
+          },
+          "titles": [],
+          "public_urls": {
+            "temp_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.mp4",
+            "cover_url": "http://192.168.1.43:3000/files/images/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.png",
+            "hls_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.mp4",
+            "local_mp4_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.mp4",
+            "local_cover_url": "http://192.168.1.43:3000/files/images/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd.png",
+            "local_hls_url": null
+          },
+          "s3_urls": {
+            "coverUrl": null,
+            "hlsUrl": null
+          }
+        }
+      ],
+      "posts": [
+        {
+          "id": 3,
+          "processing": "null",
+          "checking": "checked",
+          "comment": "fsdf",
+          "category_id": 1,
+          "sub_category_id": 1,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "haliday",
+          "creator_id": 16,
+          "createdAt": "2025-11-14T08:21:50.000Z",
+          "updatedAt": "2025-11-27T07:34:04.000Z",
+          "user_id": 3,
+          "videos": [
+            {
+              "id": 3,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 3,
+              "thumbnail_url": null,
+              "duration": 140051,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_vid_1763119721646_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": null,
+              "hash": "f8d81bdf424d858406086dc46ea596bd",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-14T11:28:41.000Z",
+              "updatedAt": "2025-11-14T11:28:41.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_vid_1763119721646_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_vid_1763119721646_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 5,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 3,
+              "thumbnail_url": null,
+              "duration": 140051,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_vid_1763119856670_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": null,
+              "hash": "f8d81bdf424d858406086dc46ea596bd",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-14T11:30:56.000Z",
+              "updatedAt": "2025-11-14T11:30:56.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_vid_1763119856670_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_vid_1763119856670_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 2,
+              "post_id": 3,
+              "s3_image_path": "uploads/posts/658086f42bb5c08c8241b84f007caafc/images/658086f42bb5c08c8241b84f007caafc.png",
+              "image_upload_status": 1,
+              "local_image_path": "D:/images/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_img_1763108927402_0.png",
+              "createdAt": "2025-11-14T08:28:47.000Z",
+              "updatedAt": "2025-11-14T13:54:07.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/f8d81bdf424d858406086dc46ea596bd/f8d81bdf424d858406086dc46ea596bd_img_1763108927402_0.png"
+              },
+              "s3_urls": {
+                "imageUrl": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/posts/658086f42bb5c08c8241b84f007caafc/images/658086f42bb5c08c8241b84f007caafc.png"
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 1,
+            "name": "test"
+          },
+          "creatorObj": {
+            "id": 16,
+            "name": "haliday",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113352153_1763113352147_Screenshot 2025-11-13 at 12.54.12â\u0080¯PM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:35:24.000Z",
+            "updatedAt": "2025-11-14T09:42:33.000Z"
+          },
+          "origin_id": 3
+        },
+        {
+          "id": 14,
+          "processing": "done",
+          "checking": "waiting for checking",
+          "comment": null,
+          "category_id": 2,
+          "sub_category_id": 2,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "haliday",
+          "creator_id": 16,
+          "createdAt": "2025-11-21T13:41:18.000Z",
+          "updatedAt": "2025-11-22T07:32:42.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 10,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 14,
+              "thumbnail_url": null,
+              "duration": 156251,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_vid_1764053415811_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_img_1764053415810_0.png",
+              "hash": "e3b95660352c00f3de4757b0b658afed",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-25T06:50:15.000Z",
+              "updatedAt": "2025-11-25T06:50:15.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_vid_1764053415811_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_vid_1764053415811_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 9,
+              "post_id": 14,
+              "s3_image_path": "uploads/posts/1f79f529af3a7f3347e45c2b10269689/images/1f79f529af3a7f3347e45c2b10269689.png",
+              "image_upload_status": 1,
+              "local_image_path": "D:/images/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_0.png",
+              "createdAt": "2025-11-21T13:41:18.000Z",
+              "updatedAt": "2025-11-22T07:32:34.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_0.png"
+              },
+              "s3_urls": {
+                "imageUrl": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/posts/1f79f529af3a7f3347e45c2b10269689/images/1f79f529af3a7f3347e45c2b10269689.png"
+              }
+            },
+            {
+              "id": 10,
+              "post_id": 14,
+              "s3_image_path": "uploads/posts/f6803094941784466918f5fb12d7f398/images/f6803094941784466918f5fb12d7f398.png",
+              "image_upload_status": 1,
+              "local_image_path": "D:/images/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_1.png",
+              "createdAt": "2025-11-21T13:41:18.000Z",
+              "updatedAt": "2025-11-22T07:32:41.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/e3b95660352c00f3de4757b0b658afed/e3b95660352c00f3de4757b0b658afed_1.png"
+              },
+              "s3_urls": {
+                "imageUrl": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/posts/f6803094941784466918f5fb12d7f398/images/f6803094941784466918f5fb12d7f398.png"
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 2,
+            "name": "category"
+          },
+          "creatorObj": {
+            "id": 16,
+            "name": "haliday",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113352153_1763113352147_Screenshot 2025-11-13 at 12.54.12â\u0080¯PM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:35:24.000Z",
+            "updatedAt": "2025-11-14T09:42:33.000Z"
+          },
+          "origin_id": 14
+        },
+        {
+          "id": 19,
+          "processing": "null",
+          "checking": "null",
+          "comment": null,
+          "category_id": 1,
+          "sub_category_id": 1,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T08:19:48.000Z",
+          "updatedAt": "2025-11-26T08:19:48.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 16,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 19,
+              "thumbnail_url": null,
+              "duration": 12520,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_0.avif",
+              "hash": "bb715f5226b8ba994715ddaabedfd615",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T08:19:48.000Z",
+              "updatedAt": "2025-11-26T08:19:48.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 17,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 19,
+              "thumbnail_url": null,
+              "duration": 9900,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_1.avif",
+              "hash": "6dcc08400ac81f8ec2f2c27435e3be35",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T08:19:48.000Z",
+              "updatedAt": "2025-11-26T08:19:48.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 18,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 19,
+              "thumbnail_url": null,
+              "duration": 16703,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_2.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_2.avif",
+              "hash": "ef1f358c21ae318d0c2d1712681092f4",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T08:19:48.000Z",
+              "updatedAt": "2025-11-26T08:19:48.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_2.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_2.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 16,
+              "post_id": 19,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_0.jpg",
+              "createdAt": "2025-11-26T08:19:48.000Z",
+              "updatedAt": "2025-11-26T08:19:48.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_0.jpg"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            },
+            {
+              "id": 17,
+              "post_id": 19,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_1.png",
+              "createdAt": "2025-11-26T08:19:48.000Z",
+              "updatedAt": "2025-11-26T08:19:48.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/49a8a99aec8dd3a09d15968bfc341f8a/49a8a99aec8dd3a09d15968bfc341f8a_1.png"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 1,
+            "name": "test"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 19
+        },
+        {
+          "id": 22,
+          "processing": "null",
+          "checking": "null",
+          "comment": null,
+          "category_id": 2,
+          "sub_category_id": 2,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T09:41:21.000Z",
+          "updatedAt": "2025-11-26T09:41:21.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 19,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 22,
+              "thumbnail_url": null,
+              "duration": 30113,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_0.avif",
+              "hash": "49a8a99aec8dd3a09d15968bfc341f8a",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:41:21.000Z",
+              "updatedAt": "2025-11-26T09:41:21.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 20,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 22,
+              "thumbnail_url": null,
+              "duration": 9900,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_1.avif",
+              "hash": "0df36f3bd04d2278f4ff1534faf8283a",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:41:21.000Z",
+              "updatedAt": "2025-11-26T09:41:21.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 20,
+              "post_id": 22,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_0.avif",
+              "createdAt": "2025-11-26T09:41:21.000Z",
+              "updatedAt": "2025-11-26T09:41:21.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/2552a4ca076c468344fb351348575c22/2552a4ca076c468344fb351348575c22_0.avif"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 2,
+            "name": "category"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 22
+        },
+        {
+          "id": 23,
+          "processing": "null",
+          "checking": "null",
+          "comment": null,
+          "category_id": 1,
+          "sub_category_id": 1,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T09:43:41.000Z",
+          "updatedAt": "2025-11-26T09:43:41.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 21,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 23,
+              "thumbnail_url": null,
+              "duration": 8000,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_0.avif",
+              "hash": "b867676d345c28c1b6f0d32d4880beba",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:43:41.000Z",
+              "updatedAt": "2025-11-26T09:43:41.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 22,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 23,
+              "thumbnail_url": null,
+              "duration": 16703,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_1.avif",
+              "hash": "2552a4ca076c468344fb351348575c22",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:43:41.000Z",
+              "updatedAt": "2025-11-26T09:43:41.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 21,
+              "post_id": 23,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_0.jpg",
+              "createdAt": "2025-11-26T09:43:41.000Z",
+              "updatedAt": "2025-11-26T09:43:41.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/234cad9acb8725dfac1b666bcba54c54/234cad9acb8725dfac1b666bcba54c54_0.jpg"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 1,
+            "name": "test"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 23
+        },
+        {
+          "id": 24,
+          "processing": "null",
+          "checking": "null",
+          "comment": null,
+          "category_id": 3,
+          "sub_category_id": 3,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T09:48:35.000Z",
+          "updatedAt": "2025-11-26T09:48:35.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 23,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 24,
+              "thumbnail_url": null,
+              "duration": 9900,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_0.avif",
+              "hash": "234cad9acb8725dfac1b666bcba54c54",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:48:35.000Z",
+              "updatedAt": "2025-11-26T09:48:35.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 24,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 24,
+              "thumbnail_url": null,
+              "duration": 16703,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_1.avif",
+              "hash": "4c121aae895852679e4f20bbc741f2d0",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:48:35.000Z",
+              "updatedAt": "2025-11-26T09:48:35.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 22,
+              "post_id": 24,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_0.jpg",
+              "createdAt": "2025-11-26T09:48:35.000Z",
+              "updatedAt": "2025-11-26T09:48:35.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/4c121aae895852679e4f20bbc741f2d0/4c121aae895852679e4f20bbc741f2d0_0.jpg"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 3,
+            "name": "farto"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 24
+        },
+        {
+          "id": 25,
+          "processing": "null",
+          "checking": "null",
+          "comment": null,
+          "category_id": 3,
+          "sub_category_id": 3,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T09:50:35.000Z",
+          "updatedAt": "2025-11-26T09:50:35.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 25,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 25,
+              "thumbnail_url": null,
+              "duration": 8000,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_0.avif",
+              "hash": "9d31c2333e84996ff0d928deca22f2b0",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:50:35.000Z",
+              "updatedAt": "2025-11-26T09:50:35.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 26,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 25,
+              "thumbnail_url": null,
+              "duration": 16703,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_1.avif",
+              "hash": "6368923539073c7cc7ba9651dc247075",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:50:35.000Z",
+              "updatedAt": "2025-11-26T09:50:35.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 23,
+              "post_id": 25,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_0.avif",
+              "createdAt": "2025-11-26T09:50:35.000Z",
+              "updatedAt": "2025-11-26T09:50:35.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/9d31c2333e84996ff0d928deca22f2b0/9d31c2333e84996ff0d928deca22f2b0_0.avif"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 3,
+            "name": "farto"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 25
+        },
+        {
+          "id": 26,
+          "processing": "null",
+          "checking": "null",
+          "comment": null,
+          "category_id": 3,
+          "sub_category_id": 3,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T09:52:04.000Z",
+          "updatedAt": "2025-11-26T09:52:04.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 27,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 26,
+              "thumbnail_url": null,
+              "duration": 16703,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_0.avif",
+              "hash": "74551ee12969b1c8482b2ed2b9d2603c",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:52:04.000Z",
+              "updatedAt": "2025-11-26T09:52:04.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 28,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 26,
+              "thumbnail_url": null,
+              "duration": 9900,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_1.avif",
+              "hash": "d9cbb7cbf74cf62ccab2f9d6f5b18438",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T09:52:04.000Z",
+              "updatedAt": "2025-11-26T09:52:04.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 24,
+              "post_id": 26,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_0.avif",
+              "createdAt": "2025-11-26T09:52:04.000Z",
+              "updatedAt": "2025-11-26T09:52:04.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/6368923539073c7cc7ba9651dc247075/6368923539073c7cc7ba9651dc247075_0.avif"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 3,
+            "name": "farto"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 26
+        },
+        {
+          "id": 27,
+          "processing": "null",
+          "checking": "waiting for checking",
+          "comment": "gdsfg",
+          "category_id": 2,
+          "sub_category_id": 2,
+          "plateform_id": 1,
+          "isDeleted": false,
+          "sendToServer": false,
+          "published_at": null,
+          "creator": "johnny",
+          "creator_id": 20,
+          "createdAt": "2025-11-26T10:01:17.000Z",
+          "updatedAt": "2025-11-26T14:29:39.000Z",
+          "user_id": 1,
+          "videos": [
+            {
+              "id": 29,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 27,
+              "thumbnail_url": null,
+              "duration": 30113,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_0.avif",
+              "hash": "ddb496edd5f73ca3798cbb20a6cf360d",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T10:01:18.000Z",
+              "updatedAt": "2025-11-26T10:01:18.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 30,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 27,
+              "thumbnail_url": null,
+              "duration": 9900,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_1.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_1.avif",
+              "hash": "4f2d4b5b9b7da63ab722de84eea98286",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T10:01:18.000Z",
+              "updatedAt": "2025-11-26T10:01:18.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_1.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_1.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 31,
+              "checking": "null",
+              "processing": "null",
+              "type": "1",
+              "post_id": 27,
+              "thumbnail_url": null,
+              "duration": 12520,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_vid_1764152954906_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_img_1764152954903_0.jpg",
+              "hash": "74551ee12969b1c8482b2ed2b9d2603c",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T10:29:15.000Z",
+              "updatedAt": "2025-11-26T10:29:15.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_vid_1764152954906_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_vid_1764152954906_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            },
+            {
+              "id": 33,
+              "checking": "null",
+              "processing": "null",
+              "type": "2",
+              "post_id": 27,
+              "thumbnail_url": null,
+              "duration": 8000,
+              "s3_hls_path": null,
+              "cdn_url": null,
+              "local_mp4_path": "D:/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_vid_1764166232936_0.mp4",
+              "s3_cover_path": null,
+              "local_cover_path": "D:/images/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_img_1764166232930_0.jpg",
+              "hash": "74551ee12969b1c8482b2ed2b9d2603c",
+              "sys_code": "Vod001",
+              "isDeleted": false,
+              "createdAt": "2025-11-26T14:10:33.000Z",
+              "updatedAt": "2025-11-26T14:10:33.000Z",
+              "public_urls": {
+                "local_mp4_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_vid_1764166232936_0.mp4",
+                "hls_url": "http://192.168.1.43:3000/files/videos/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_vid_1764166232936_0.mp4",
+                "local_hls_url": null
+              },
+              "s3_urls": {
+                "hlsUrl": null,
+                "cdnUrl": null
+              }
+            }
+          ],
+          "images": [
+            {
+              "id": 25,
+              "post_id": 27,
+              "s3_image_path": null,
+              "image_upload_status": 0,
+              "local_image_path": "D:/images/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_0.avif",
+              "createdAt": "2025-11-26T10:01:17.000Z",
+              "updatedAt": "2025-11-26T10:01:17.000Z",
+              "public_urls": {
+                "local_image_url": "http://192.168.1.43:3000/files/images/74551ee12969b1c8482b2ed2b9d2603c/74551ee12969b1c8482b2ed2b9d2603c_0.avif"
+              },
+              "s3_urls": {
+                "imageUrl": null
+              }
+            }
+          ],
+          "postCategory": {
+            "id": 2,
+            "name": "category"
+          },
+          "creatorObj": {
+            "id": 20,
+            "name": "johnny",
+            "gender": "male",
+            "avatar": "https://pub-f66c37bc3f7b40e481f347a782ebb781.r2.dev/uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+            "description": null,
+            "metadata": null,
+            "isDeleted": false,
+            "createdAt": "2025-11-14T09:39:39.000Z",
+            "updatedAt": "2025-11-14T09:47:04.000Z"
+          },
+          "origin_id": 27
+        }
+      ],
+      "users": [
+        {
+          "id": 20,
+          "name": "johnny",
+          "gender": "male",
+          "avatar": "uploads/creators/avatars/1763113609475_1763113609469_Screenshot 2025-11-13 at 5.05.48â\u0080¯AM.png",
+          "description": null,
+          "metadata": null,
+          "isDeleted": false,
+          "createdAt": "2025-11-14T09:39:39.000Z",
+          "updatedAt": "2025-11-14T09:47:04.000Z",
+          "origin_id": 20
+        }
+      ]
+    }
+  }

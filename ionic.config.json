@@ -1,0 +1,7 @@
+{
+  "name": "u-trace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
